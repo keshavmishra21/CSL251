@@ -1,0 +1,7 @@
+Implementation of Booth's algorithm for integer multiplication in Python/C/C++/Java
+
+Implement Booth's algorithm for integer multiplication in Python/C/C++/Java, satisfying the following conditions:
+
+1. The designed program takes as inputs: an integer n, two binary integers of size n.
+2. The binary integer inputs should be treated to be in 2's complement format.
+3. To process the binary numbers, your program is ONLY allowed to use: negation, shift and addition operations.
